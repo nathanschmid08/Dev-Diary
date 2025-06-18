@@ -8,7 +8,7 @@ This repository provides an overview of all my projects.
 A Perl script that automatically generates new Electron apps.
 
 ## DoodlePlumber  
-A Doodle Jump–style game originally written in Python with Pygame for a school project. I later rewrote it using HTML, CSS, and JavaScript. The web version is optimized for mobile devices.
+A Doodle Jump–style game originally written in Python with Pygame. I later rewrote it using HTML, CSS, and JavaScript for a school project. The web version is optimized for mobile devices.
 
 ## GameHive  
 A website that lets you play over 25 games directly in the browser. All games were developed by me using HTML, CSS, and JavaScript.
@@ -29,7 +29,7 @@ A Perl script to perform a basic health check on a Linux machine.
 A Java-to-Go translator written in Python. It was originally intended to help migrate Java codebases to Go, but never fully worked.
 
 ## WebNux  
-A simulated Linux desktop environment for the browser. Built with HTML, CSS, JavaScript, and Electron, it allows users to try out a Linux-like interface without installing anything.
+A simulated Linux desktop environment for the Desktop. Built with HTML, CSS, JavaScript, and Electron, it allows users to try out a Linux-like interface without installing anything.
 
 ## Schubladensystem-3000  
 A PowerShell script with a Windows Forms GUI to organize files on the desktop. Created for a school project.
@@ -56,7 +56,7 @@ A calculator app that returns the result as x64 Windows Assembly code instead of
 A Java-to-JavaScript converter with a Tkinter GUI, written in Python. Compiled into an `.exe` with PyInstaller.
 
 ## Tailwind CSS Extractor  
-A Chrome extension that generates a CSS file from Tailwind classes found in HTML, CSS, and JavaScript files.
+A Chrome extension that generates a CSS file from Tailwind classes found in HTML files.
 
 ## 3D Sunsystem  
-A simulation of the solar system including all planets, built with HTML, CSS, JavaScript, and Three.js
+A simulation of the solar system including all planets, built with HTML, CSS, JavaScript and Three.js
