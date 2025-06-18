@@ -1,60 +1,62 @@
 # Dev-Diary
 
-This is an overview with all my projects
+This repository provides an overview of all my projects.
 
-## elecpt
-A perl script that automaticly generates new electron apps.
+---
 
-## DoodlePlumber
-A DoodleJump like game written in python pygame, for a school project i have rewritten in HTML, CSS and JavaScript, the Web version is intended for mobile and not desktop
+## elecpt  
+A Perl script that automatically generates new Electron apps.
 
-## GameHive
-A website to play games form your browser. Over 25 games are built by myself and all are written in HTML, CSS and JavaScript.
+## DoodlePlumber  
+A Doodle Jump–style game originally written in Python with Pygame for a school project. I later rewrote it using HTML, CSS, and JavaScript. The web version is optimized for mobile devices.
 
-## CodeCola
-A Java Learning project to translate your code into a recipe.
+## GameHive  
+A website that lets you play over 25 games directly in the browser. All games were developed by me using HTML, CSS, and JavaScript.
 
-## Read Ease
-An electron App, built wit HTML, CSS, JavaScript to display README files like the get displayed on GitHub.
+## CodeCola  
+A Java learning project that translates your code into a recipe format.
 
-## Syntaxly
-A website to learn the most programming languages, frameworks, tools a developer could need. Built with HTML, CSS, JavaScript.
+## Read Ease  
+An Electron app built with HTML, CSS, and JavaScript to display README files exactly as they appear on GitHub.
 
-## Tommy Check
-A perl script to run a health check on your linux machine.
+## Syntaxly  
+A website to learn programming languages, frameworks, and tools commonly used by developers. Built with HTML, CSS, and JavaScript.
 
-## Coffee2Go
-A Java to Golang translator written in python. Originaly intended to migrate Java code bases to Golang but it never really worked tho.
+## Tommy Check  
+A Perl script to perform a basic health check on a Linux machine.
 
-## WebNux
-A Linux like interface as a functioning linux desktop, build for people that want to try linux and see if it fits for them. Built in HTML, CSS, JavaScript, Electron
+## Coffee2Go  
+A Java-to-Go translator written in Python. It was originally intended to help migrate Java codebases to Go, but never fully worked.
 
-## Schubladensystem-3000
-A powershell script with a Windows Forms GUI to organize the data on your desktop. This was for a schoolproject.
+## WebNux  
+A simulated Linux desktop environment for the browser. Built with HTML, CSS, JavaScript, and Electron, it allows users to try out a Linux-like interface without installing anything.
 
-## Algo-The-Rithm
-A website to visualize algorithms, built in HTML, CSS and JavaScript
+## Schubladensystem-3000  
+A PowerShell script with a Windows Forms GUI to organize files on the desktop. Created for a school project.
 
-## TexRay
-ThAn experiment of RayTracing in python pygames. A "3D" Map you can walk around. Inspiried by Wolfstein 3D.
+## Algo-The-Rithm  
+A website to visualize algorithms, built with HTML, CSS, and JavaScript.
 
-## LiteDBox
-LiteDBox ist the same as the LiteDBox-Core but written in HTML, CSS, JavaScript and ELectron. This is the MacOS version.
+## TexRay  
+An experimental raytracer using Python and Pygame. It features a “3D” map that you can walk through. Inspired by Wolfenstein 3D.
 
-## LiteDBox-Core
-A local databse that stores data in json files local on your C:/Users/ directory. This is the windows version built with python and TKinter and compled into an .exe with pyinstaller
+## LiteDBox  
+The macOS version of LiteDBox, written in HTML, CSS, JavaScript, and Electron.
 
-## TermiChat
-A terminal based chatapp that lets you chat with with your terminal. Build with HTML, CSS and JavaScript. Compiled to a .app for mac with electron forge
+## LiteDBox-Core  
+A local database that stores data in JSON files inside the `C:/Users/` directory. This is the Windows version, built with Python and Tkinter, and compiled into an `.exe` with PyInstaller.
 
-## CalcASM
-A calculator app that doesnt return a number but the calculation in Assembly for Windows x64, written in Python with TKinter compiled into an .exe with pyinstaller.
+## TermiChat  
+A terminal-based chat app that lets you chat via the terminal interface. Built with HTML, CSS, and JavaScript, and compiled into a macOS `.app` using Electron Forge.
 
-## J2JS
-A Java to JavaScript Converter writtien in Python with a TKinter GUI. I created an .exe with pyinstaller.
+## CalcASM  
+A calculator app that returns the result as x64 Windows Assembly code instead of a number. Written in Python with Tkinter and compiled into an `.exe` with PyInstaller.
 
-## Tailwind CSS Extractor
-A Google Chrome Extension to generate a CSS file from Tailwind Classes in HTML, CSS, JavaScript.
+## J2JS  
+A Java-to-JavaScript converter with a Tkinter GUI, written in Python. Compiled into an `.exe` with PyInstaller.
 
-## 3D Sunsystem
-The sunsystem with all planets from our solarsystem in HTML, CSS, JavaScript with Three.js.
+## Tailwind CSS Extractor  
+A Chrome extension that generates a CSS file from Tailwind classes found in HTML, CSS, and JavaScript files.
+
+## 3D Sunsystem  
+A simulation of the solar system including all planets, built with HTML, CSS, JavaScript, and Three.js
