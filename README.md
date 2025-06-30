@@ -7,10 +7,10 @@ This repository provides an overview of all my projects.
 ## 🎯 Projects
 
 ### 🐵 Ape Generator
-*A creative tool for generating unique ape characters with customizable features and traits.*
+
 
 ### 👔 Pyjama
-*A Python-based application designed for comfortable and efficient development workflows.*
+
 
 ### 🎨 Bootstrap CSS Extractor
 *A utility tool that extracts and optimizes Bootstrap CSS components for cleaner, more efficient stylesheets.*
